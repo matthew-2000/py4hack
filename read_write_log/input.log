@@ -1,0 +1,7 @@
+INFO: This is an informational message.
+WARNING: This is a warning message.
+DEBUG: This is a debug message.
+ERROR: This is an error message.
+CRITICAL: This is a critical message.
+INFO: Another informational message.
+WARNING: Another warning message.

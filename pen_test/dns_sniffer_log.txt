@@ -1,0 +1,188 @@
+[2025-03-21 12:12:17] [REQ] 172.20.10.2 → cdn.oaistatic.com.
+[2025-03-21 12:12:17] [RES] 172.20.10.1 ← cdn.oaistatic.com. (172.64.146.98, 104.18.41.158)
+[2025-03-21 12:12:46] [REQ] 172.20.10.2 → play.google.com.
+[2025-03-21 12:12:46] [REQ] 172.20.10.2 → play.google.com.
+[2025-03-21 12:12:46] [RES] 172.20.10.1 ← play.google.com. (216.58.204.142)
+[2025-03-21 12:12:46] [RES] 172.20.10.1 ← play.google.com. (?)
+[2025-03-21 12:12:46] [REQ] 172.20.10.2 → www.googletagmanager.com.
+[2025-03-21 12:12:46] [REQ] 172.20.10.2 → www.googletagmanager.com.
+[2025-03-21 12:12:46] [REQ] 172.20.10.2 → www.gstatic.com.
+[2025-03-21 12:12:46] [REQ] 172.20.10.2 → www.gstatic.com.
+[2025-03-21 12:12:46] [RES] 172.20.10.1 ← www.googletagmanager.com. (?)
+[2025-03-21 12:12:46] [RES] 172.20.10.1 ← www.googletagmanager.com. (142.251.209.40)
+[2025-03-21 12:12:46] [RES] 172.20.10.1 ← www.gstatic.com. (142.250.180.163)
+[2025-03-21 12:12:46] [RES] 172.20.10.1 ← www.gstatic.com. (?)
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → region1.google-analytics.com.
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → region1.google-analytics.com.
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← region1.google-analytics.com. (?)
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← region1.google-analytics.com. (216.239.32.36, 216.239.34.36)
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → playconsoleplatform-pa.clients6.google.com.
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → playconsoleplatform-pa.clients6.google.com.
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → playconsoleapps-pa.clients6.google.com.
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → playconsoleapps-pa.clients6.google.com.
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← playconsoleplatform-pa.clients6.google.com. (142.251.209.42)
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← playconsoleplatform-pa.clients6.google.com. (?)
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← playconsoleapps-pa.clients6.google.com. (142.251.209.42)
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← playconsoleapps-pa.clients6.google.com. (?)
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → www.google.com.
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → www.google.com.
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← www.google.com. (142.251.209.36)
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← www.google.com. (?)
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → ssl.gstatic.com.
+[2025-03-21 12:12:47] [REQ] 172.20.10.2 → ssl.gstatic.com.
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← ssl.gstatic.com. (142.251.209.35)
+[2025-03-21 12:12:47] [RES] 172.20.10.1 ← ssl.gstatic.com. (?)
+[2025-03-21 12:12:48] [REQ] 172.20.10.2 → playconsoleappmonetization-pa.clients6.google.com.
+[2025-03-21 12:12:48] [REQ] 172.20.10.2 → playconsoleappmonetization-pa.clients6.google.com.
+[2025-03-21 12:12:48] [REQ] 172.20.10.2 → apis.google.com.
+[2025-03-21 12:12:48] [REQ] 172.20.10.2 → apis.google.com.
+[2025-03-21 12:12:48] [RES] 172.20.10.1 ← playconsoleappmonetization-pa.clients6.google.com. (?)
+[2025-03-21 12:12:48] [RES] 172.20.10.1 ← playconsoleappmonetization-pa.clients6.google.com. (142.251.209.10)
+[2025-03-21 12:12:48] [RES] 172.20.10.1 ← apis.google.com. (142.250.180.174)
+[2025-03-21 12:12:48] [RES] 172.20.10.1 ← apis.google.com. (?)
+[2025-03-21 12:12:48] [REQ] 172.20.10.2 → plus.l.google.com.
+[2025-03-21 12:12:48] [RES] 172.20.10.1 ← plus.l.google.com. (?)
+[2025-03-21 12:12:48] [REQ] 172.20.10.2 → feedback-pa.clients6.google.com.
+[2025-03-21 12:12:48] [REQ] 172.20.10.2 → feedback-pa.clients6.google.com.
+[2025-03-21 12:12:48] [RES] 172.20.10.1 ← feedback-pa.clients6.google.com. (?)
+[2025-03-21 12:12:48] [RES] 172.20.10.1 ← feedback-pa.clients6.google.com. (142.251.209.10)
+[2025-03-21 12:12:49] [REQ] 172.20.10.2 → scone-pa.clients6.google.com.
+[2025-03-21 12:12:49] [REQ] 172.20.10.2 → scone-pa.clients6.google.com.
+[2025-03-21 12:12:49] [RES] 172.20.10.1 ← scone-pa.clients6.google.com. (142.250.180.138)
+[2025-03-21 12:12:49] [RES] 172.20.10.1 ← scone-pa.clients6.google.com. (?)
+[2025-03-21 12:19:27] [REQ] 172.20.10.2 → mobile.events.data.microsoft.com.
+[2025-03-21 12:19:27] [RES] 172.20.10.1 ← mobile.events.data.microsoft.com. (104.46.162.224)
+[2025-03-21 12:19:37] [REQ] 172.20.10.2 → heads-fa-tls13.spotifycdn.com.
+[2025-03-21 12:19:37] [REQ] 172.20.10.2 → heads-fa-tls13.spotifycdn.com.
+[2025-03-21 12:19:37] [RES] 172.20.10.1 ← heads-fa-tls13.spotifycdn.com. (151.101.242.250)
+[2025-03-21 12:19:37] [RES] 172.20.10.1 ← heads-fa-tls13.spotifycdn.com. (?)
+[2025-03-21 12:19:37] [REQ] 172.20.10.2 → audio4-akp.spotifycdn.com.
+[2025-03-21 12:19:37] [REQ] 172.20.10.2 → audio4-akp.spotifycdn.com.
+[2025-03-21 12:19:37] [RES] 172.20.10.1 ← audio4-akp.spotifycdn.com. (23.1.106.33)
+[2025-03-21 12:19:37] [RES] 172.20.10.1 ← audio4-akp.spotifycdn.com. (?)
+[2025-03-21 12:19:39] [REQ] 172.20.10.2 → spclient.wg.spotify.com.
+[2025-03-21 12:19:39] [REQ] 172.20.10.2 → spclient.wg.spotify.com.
+[2025-03-21 12:19:39] [RES] 172.20.10.1 ← spclient.wg.spotify.com. (35.186.224.24)
+[2025-03-21 12:19:39] [RES] 172.20.10.1 ← spclient.wg.spotify.com. (?)
+[2025-03-21 12:20:01] [REQ] 172.20.10.2 → vscode-sync.trafficmanager.net.
+[2025-03-21 12:20:01] [REQ] 172.20.10.2 → vscode-sync.trafficmanager.net.
+[2025-03-21 12:20:01] [RES] 172.20.10.1 ← vscode-sync.trafficmanager.net. (20.111.1.3)
+[2025-03-21 12:20:01] [RES] 172.20.10.1 ← vscode-sync.trafficmanager.net. (?)
+[2025-03-21 12:20:04] [REQ] 172.20.10.2 → mobile.events.data.microsoft.com.
+[2025-03-21 12:20:04] [REQ] 172.20.10.2 → mobile.events.data.microsoft.com.
+[2025-03-21 12:20:04] [RES] 172.20.10.1 ← mobile.events.data.microsoft.com. (104.208.16.89)
+[2025-03-21 12:20:04] [RES] 172.20.10.1 ← mobile.events.data.microsoft.com. (?)
+[2025-03-21 12:22:30] [REQ] 172.20.10.2 → i.scdn.co.
+[2025-03-21 12:22:30] [REQ] 172.20.10.2 → i.scdn.co.
+[2025-03-21 12:22:30] [REQ] 172.20.10.2 → spclient.wg.spotify.com.
+[2025-03-21 12:22:30] [REQ] 172.20.10.2 → spclient.wg.spotify.com.
+[2025-03-21 12:22:30] [RES] 172.20.10.1 ← spclient.wg.spotify.com. (?)
+[2025-03-21 12:22:30] [RES] 172.20.10.1 ← i.scdn.co. (23.1.106.35)
+[2025-03-21 12:22:30] [RES] 172.20.10.1 ← spclient.wg.spotify.com. (35.186.224.24)
+[2025-03-21 12:22:31] [RES] 172.20.10.1 ← i.scdn.co. (?)
+[2025-03-21 12:22:35] [REQ] 172.20.10.2 → audio4-akp.spotifycdn.com.
+[2025-03-21 12:22:35] [REQ] 172.20.10.2 → audio4-akp.spotifycdn.com.
+[2025-03-21 12:22:36] [RES] 172.20.10.1 ← audio4-akp.spotifycdn.com. (23.1.106.33)
+[2025-03-21 12:22:36] [RES] 172.20.10.1 ← audio4-akp.spotifycdn.com. (?)
+[2025-03-21 12:31:20] [REQ] 172.20.10.2 → chat.openai.com.
+[2025-03-21 12:31:20] [REQ] 172.20.10.2 → chat.openai.com.
+[2025-03-21 12:31:20] [RES] 172.20.10.1 ← chat.openai.com. (172.64.150.28, 104.18.37.228)
+[2025-03-21 12:31:20] [RES] 172.20.10.1 ← chat.openai.com. (?)
+[2025-03-21 12:31:20] [REQ] 172.20.10.2 → chat.openai.com.cdn.cloudflare.net.
+[2025-03-21 12:31:20] [RES] 172.20.10.1 ← chat.openai.com.cdn.cloudflare.net. (?)
+[2025-03-21 12:31:20] [REQ] 172.20.10.2 → chatgpt.com.
+[2025-03-21 12:31:20] [REQ] 172.20.10.2 → chatgpt.com.
+[2025-03-21 12:31:20] [RES] 172.20.10.1 ← chatgpt.com. (104.18.32.47, 172.64.155.209)
+[2025-03-21 12:31:20] [RES] 172.20.10.1 ← chatgpt.com. (?)
+[2025-03-21 12:31:22] [REQ] 172.20.10.2 → cdn.oaistatic.com.
+[2025-03-21 12:31:22] [REQ] 172.20.10.2 → cdn.oaistatic.com.
+[2025-03-21 12:31:22] [REQ] 172.20.10.2 → ab.chatgpt.com.
+[2025-03-21 12:31:22] [RES] 172.20.10.1 ← ab.chatgpt.com. (172.64.155.209, 104.18.32.47)
+[2025-03-21 12:31:22] [RES] 172.20.10.1 ← cdn.oaistatic.com. (104.18.41.158, 172.64.146.98)
+[2025-03-21 12:31:22] [RES] 172.20.10.1 ← cdn.oaistatic.com. (?)
+[2025-03-21 12:31:22] [REQ] 172.20.10.2 → s.gravatar.com.
+[2025-03-21 12:31:22] [REQ] 172.20.10.2 → s.gravatar.com.
+[2025-03-21 12:31:22] [RES] 172.20.10.1 ← s.gravatar.com. (192.0.73.2)
+[2025-03-21 12:31:22] [RES] 172.20.10.1 ← s.gravatar.com. (?)
+[2025-03-21 12:31:23] [REQ] 172.20.10.2 → i2.wp.com.
+[2025-03-21 12:31:23] [REQ] 172.20.10.2 → i2.wp.com.
+[2025-03-21 12:31:23] [RES] 172.20.10.1 ← i2.wp.com. (?)
+[2025-03-21 12:31:23] [RES] 172.20.10.1 ← i2.wp.com. (192.0.77.2)
+[2025-03-21 12:31:26] [REQ] 172.20.10.2 → westus-0.in.applicationinsights.azure.com.
+[2025-03-21 12:31:26] [RES] 172.20.10.1 ← westus-0.in.applicationinsights.azure.com. (20.189.172.33)
+[2025-03-21 12:31:29] [REQ] 172.20.10.2 → api.individual.githubcopilot.com.
+[2025-03-21 12:31:29] [REQ] 172.20.10.2 → api.individual.githubcopilot.com.
+[2025-03-21 12:31:29] [RES] 172.20.10.1 ← api.individual.githubcopilot.com. (?)
+[2025-03-21 12:31:29] [RES] 172.20.10.1 ← api.individual.githubcopilot.com. (140.82.114.21)
+[2025-03-21 12:31:34] [REQ] 172.20.10.2 → main.vscode-cdn.net.
+[2025-03-21 12:31:34] [REQ] 172.20.10.2 → main.vscode-cdn.net.
+[2025-03-21 12:31:34] [RES] 172.20.10.1 ← main.vscode-cdn.net. (13.107.253.72)
+[2025-03-21 12:31:34] [RES] 172.20.10.1 ← main.vscode-cdn.net. (?)
+[2025-03-21 12:31:46] [REQ] 172.20.10.2 → gew4-spclient.spotify.com.
+[2025-03-21 12:31:46] [REQ] 172.20.10.2 → gew4-spclient.spotify.com.
+[2025-03-21 12:31:46] [RES] 172.20.10.1 ← gew4-spclient.spotify.com. (?)
+[2025-03-21 12:31:46] [RES] 172.20.10.1 ← gew4-spclient.spotify.com. (35.186.224.28)
+[2025-03-21 12:32:00] [REQ] 172.20.10.2 → i.scdn.co.
+[2025-03-21 12:32:00] [REQ] 172.20.10.2 → i.scdn.co.
+[2025-03-21 12:32:01] [REQ] 172.20.10.2 → spclient.wg.spotify.com.
+[2025-03-21 12:32:01] [REQ] 172.20.10.2 → spclient.wg.spotify.com.
+[2025-03-21 12:32:01] [RES] 172.20.10.1 ← spclient.wg.spotify.com. (?)
+[2025-03-21 12:32:01] [RES] 172.20.10.1 ← i.scdn.co. (23.1.106.35)
+[2025-03-21 12:32:01] [RES] 172.20.10.1 ← i.scdn.co. (?)
+[2025-03-21 12:32:01] [RES] 172.20.10.1 ← spclient.wg.spotify.com. (35.186.224.24)
+[2025-03-21 12:32:01] [REQ] 172.20.10.2 → gew4-spclient.spotify.com.
+[2025-03-21 12:32:01] [REQ] 172.20.10.2 → gew4-spclient.spotify.com.
+[2025-03-21 12:32:01] [RES] 172.20.10.1 ← gew4-spclient.spotify.com. (35.186.224.28)
+[2025-03-21 12:32:01] [RES] 172.20.10.1 ← gew4-spclient.spotify.com. (?)
+[2025-03-21 12:32:06] [REQ] 172.20.10.2 → audio4-akp.spotifycdn.com.
+[2025-03-21 12:32:06] [REQ] 172.20.10.2 → audio4-akp.spotifycdn.com.
+[2025-03-21 12:32:06] [RES] 172.20.10.1 ← audio4-akp.spotifycdn.com. (23.1.106.33)
+[2025-03-21 12:32:06] [RES] 172.20.10.1 ← audio4-akp.spotifycdn.com. (?)
+[2025-03-21 12:32:13] [REQ] 172.20.10.2 → vscode-sync.trafficmanager.net.
+[2025-03-21 12:32:13] [REQ] 172.20.10.2 → vscode-sync.trafficmanager.net.
+[2025-03-21 12:32:13] [RES] 172.20.10.1 ← vscode-sync.trafficmanager.net. (20.111.1.3)
+[2025-03-21 12:32:13] [RES] 172.20.10.1 ← vscode-sync.trafficmanager.net. (?)
+[2025-03-21 12:32:14] [REQ] 172.20.10.2 → mobile.events.data.microsoft.com.
+[2025-03-21 12:32:14] [RES] 172.20.10.1 ← mobile.events.data.microsoft.com. (104.46.162.224)
+[2025-03-21 12:32:15] [REQ] 172.20.10.2 → mobile.events.data.microsoft.com.
+[2025-03-21 12:32:15] [REQ] 172.20.10.2 → mobile.events.data.microsoft.com.
+[2025-03-21 12:32:15] [RES] 172.20.10.1 ← mobile.events.data.microsoft.com. (104.46.162.224)
+[2025-03-21 12:32:15] [RES] 172.20.10.1 ← mobile.events.data.microsoft.com. (?)
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → me.apple-dns.net.
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → me.apple-dns.net.
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← me.apple-dns.net. (?)
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← me.apple-dns.net. (17.248.209.137, 17.248.209.138, 17.248.209.133, 17.248.209.130, 17.248.209.136, 17.248.209.128)
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → ocsp2-lb.apple.com.akadns.net.
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → ocsp2-lb.apple.com.akadns.net.
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← ocsp2-lb.apple.com.akadns.net. (17.253.122.195, 17.253.122.200)
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← ocsp2-lb.apple.com.akadns.net. (?)
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → ocsp2.g.aaplimg.com.
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← ocsp2.g.aaplimg.com. (?)
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → mask-api.icloud.com.
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → _dns.resolver.arpa.
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← _dns.resolver.arpa. (?)
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← mask-api.icloud.com. (17.248.209.68, 17.248.209.67, 17.248.209.70, 17.248.209.71, 17.248.209.72, 17.248.209.69, 17.248.209.74)
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → gcs-eu-00002.content-storage-upload.googleapis.com. ⚠️ [SOSPETTO]
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → gcs-eu-00002.content-storage-upload.googleapis.com. ⚠️ [SOSPETTO]
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← gcs-eu-00002.content-storage-upload.googleapis.com. (142.251.5.207, 142.251.168.207, 64.233.184.207, 142.251.173.207, 74.125.206.207, 64.233.167.207, 64.233.166.207, 74.125.71.207, 74.125.133.207, 108.177.15.207, 173.194.76.207, 66.102.1.207, 142.250.110.207) ⚠️ [SOSPETTO]
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← gcs-eu-00002.content-storage-upload.googleapis.com. (?) ⚠️ [SOSPETTO]
+[2025-03-21 12:32:26] [REQ] 172.20.10.2 → gcs-blue-upload-eu.l.googleusercontent.com.
+[2025-03-21 12:32:26] [RES] 172.20.10.1 ← gcs-blue-upload-eu.l.googleusercontent.com. (?)
+[2025-03-21 12:33:04] [REQ] 172.20.10.2 → onedscolprdaus00.australiasoutheast.cloudapp.azure.com.
+[2025-03-21 12:33:04] [RES] 172.20.10.1 ← onedscolprdaus00.australiasoutheast.cloudapp.azure.com. (104.46.162.224)
+[2025-03-21 12:33:08] [REQ] 172.20.10.2 → gew4-spclient.spotify.com.
+[2025-03-21 12:33:08] [REQ] 172.20.10.2 → gew4-spclient.spotify.com.
+[2025-03-21 12:33:08] [RES] 172.20.10.1 ← gew4-spclient.spotify.com. (?)
+[2025-03-21 12:33:08] [RES] 172.20.10.1 ← gew4-spclient.spotify.com. (35.186.224.28)
+[2025-03-21 12:33:12] [REQ] 172.20.10.2 → time.euro.apple.com.
+[2025-03-21 12:33:12] [RES] 172.20.10.1 ← time.euro.apple.com. (17.253.14.251, 17.253.14.125, 17.253.108.125)
+[2025-03-21 12:33:37] [REQ] 172.20.10.2 → vscode-sync.trafficmanager.net.
+[2025-03-21 12:33:37] [REQ] 172.20.10.2 → vscode-sync.trafficmanager.net.
+[2025-03-21 12:33:37] [RES] 172.20.10.1 ← vscode-sync.trafficmanager.net. (20.111.1.3)
+[2025-03-21 12:33:37] [RES] 172.20.10.1 ← vscode-sync.trafficmanager.net. (?)
+[2025-03-21 12:33:39] [REQ] 172.20.10.2 → mobile.events.data.microsoft.com.
+[2025-03-21 12:33:39] [REQ] 172.20.10.2 → mobile.events.data.microsoft.com.
+[2025-03-21 12:33:39] [RES] 172.20.10.1 ← mobile.events.data.microsoft.com. (51.105.71.137)
+[2025-03-21 12:33:39] [RES] 172.20.10.1 ← mobile.events.data.microsoft.com. (?)
+[2025-03-21 12:45:59] [REQ] 192.168.1.120 → openai.com.
+[2025-03-21 12:46:15] [REQ] 192.168.1.120 → google.com.
