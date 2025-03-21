@@ -1,0 +1,31 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Bytecode Python
+__pycache__/
+*.pyc
+
+# Database temporanei
+*.db
+
+# Log e file temporanei
+*.log
+
+# File di sistema/macOS
+.DS_Store
+
+# Ambiente virtuale
+venv/
+.env
+
+# File di output o risultati generati
+*.txt
+port_scan_result.txt
+dns_sniffer_log.txt
+
+# Backup o file temporanei
+*~
+*.bak
