@@ -1,5 +1,3 @@
-import nmap
-
 import nmap  # Importa la libreria che permette di usare Nmap tramite Python
 
 # Crea un oggetto "scanner", che useremo per fare la scansione
@@ -7,7 +5,7 @@ scanner = nmap.PortScanner()
 
 # Indirizzo IP o intervallo di rete da scansionare
 # In questo esempio: tutta la rete 192.168.1.x (modificabile in base alla tua rete)
-network_range = '172.20.10.1/24'
+network_range = '172.20.10.0/24'
 
 # Opzioni per la scansione:
 # -sS: usa il metodo SYN scan (rapido e spesso non rilevato dai firewall)
